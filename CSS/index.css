@@ -135,10 +135,3 @@ html {
 body {
   background-color: #f6bd20;
 }
-nav {
-  display: flex;
-  justify-content: space-between;
-}
-nav img {
-  width: 30%;
-}
